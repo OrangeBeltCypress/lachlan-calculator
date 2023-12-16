@@ -1,0 +1,25 @@
+body{
+    background-color: orange;
+}
+
+.box{
+    width: 300px;
+    height: 400px;
+      border:greenyellow solid 2px; 
+      margin-left: 30%;         
+      margin-top: 5%;                                                                                     
+}
+.textBox{
+    width: 300;
+    height: 80px;
+    border-bottom:greenyellow solid 1.5px ;
+}
+.row1,.row2,.row3,.row4,.row5{
+    display: flex;
+}
+button{
+    width: 80px;
+    height: 59.5px;
+}
+
+
